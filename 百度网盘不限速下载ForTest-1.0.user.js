@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         百度网盘不限速下载-熊猫加速
+// @name         百度网盘不限速下载-For Test
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  一个稳定的百度网盘加速下载脚本
